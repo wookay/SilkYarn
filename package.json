@@ -1,0 +1,9 @@
+{
+  "scripts": {
+    "test": "jest"
+  },
+  "name": "SilkYarn",
+  "version": "0.0.1",
+  "main": "index.js",
+  "license": "MIT"
+}
